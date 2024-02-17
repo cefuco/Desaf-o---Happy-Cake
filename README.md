@@ -1,2 +1,13 @@
-# Desaf-o---Happy-Cake
-Desafío - Happy Cake
+# Desafío Happy Cake
+
+## Instalación
+
+```
+npm install
+```
+
+## Ejecución
+
+```
+npm run dev
+```
